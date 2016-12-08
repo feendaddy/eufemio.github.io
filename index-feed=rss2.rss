@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Eufemio Perez</title>
+	<atom:link href="http://eufemioperez.com/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://eufemioperez.com</link>
+	<description>20+ years of communications experience.</description>
+	<lastBuildDate>Fri, 06 May 2016 02:37:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://eufemioperez.com/?p=1</link>
+		<comments>http://eufemioperez.com/?p=1#respond</comments>
+		<pubDate>Wed, 18 Mar 2015 02:20:49 +0000</pubDate>
+		<dc:creator><![CDATA[eufemiop]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://45.55.151.187/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://eufemioperez.com/?feed=rss2&#038;p=1</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://eufemioperez.com/?p=76</link>
+		<comments>http://eufemioperez.com/?p=76#comments</comments>
+		<pubDate>Tue, 10 Feb 2015 19:12:02 +0000</pubDate>
+		<dc:creator><![CDATA[eufemiop]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/onewp/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://eufemioperez.com/?feed=rss2&#038;p=76</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Gallery Post</title>
+		<link>http://eufemioperez.com/?p=60</link>
+		<comments>http://eufemioperez.com/?p=60#respond</comments>
+		<pubDate>Sat, 30 Aug 2014 12:35:44 +0000</pubDate>
+		<dc:creator><![CDATA[eufemiop]]></dc:creator>
+				<category><![CDATA[Mockup]]></category>
+
+		<guid isPermaLink="false">http://sftheme.com/demos/onewp/?p=60</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh id nulla imperdiet placerat. Quisque sit amet augue pulvinar, finibus sem et, accumsan augue. Pellentesque sed orci a purus aliquam tincidunt. In porttitor mi eget finibus aliquet. Integer vitae sapien placerat, tincidunt nulla sit amet, auctor neque. Aliquam volutpat ex ex, eu egestas dui commodo nec.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://eufemioperez.com/?feed=rss2&#038;p=60</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I Work From Home</title>
+		<link>http://eufemioperez.com/?p=52</link>
+		<comments>http://eufemioperez.com/?p=52#comments</comments>
+		<pubDate>Sat, 30 Aug 2014 12:16:53 +0000</pubDate>
+		<dc:creator><![CDATA[eufemiop]]></dc:creator>
+				<category><![CDATA[Mockup]]></category>
+
+		<guid isPermaLink="false">http://sftheme.com/demos/onewp/?p=52</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Lorem ipsum dolor sit amet</strong>, consectetur adipiscing elit. Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh id nulla imperdiet placerat. Quisque sit amet augue pulvinar, finibus sem et, accumsan augue. Pellentesque sed orci a purus aliquam tincidunt. In porttitor mi eget finibus aliquet. Integer vitae sapien placerat, tincidunt nulla sit amet, auctor neque. Aliquam volutpat ex ex, eu egestas dui commodo nec.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://eufemioperez.com/?feed=rss2&#038;p=52</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Video Post</title>
+		<link>http://eufemioperez.com/?p=55</link>
+		<comments>http://eufemioperez.com/?p=55#comments</comments>
+		<pubDate>Wed, 20 Aug 2014 12:27:21 +0000</pubDate>
+		<dc:creator><![CDATA[eufemiop]]></dc:creator>
+				<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://sftheme.com/demos/onewp/?p=55</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc risus enim, tristique nec mollis sit amet, tempor et neque. Vestibulum pharetra volutpat laoreet. Cras euismod ultricies justo. Nam mollis sem eget lorem dapibus, eget pulvinar massa suscipit. Sed pulvinar pulvinar elit, ac porttitor lacus gravida in. Aenean placerat luctus enim nec elementum. In at nibh id nulla imperdiet placerat. Quisque sit amet augue pulvinar, finibus sem et, accumsan augue. Pellentesque sed orci a purus aliquam tincidunt. In porttitor mi eget finibus aliquet. Integer vitae sapien placerat, tincidunt nulla sit amet, auctor neque. Aliquam volutpat ex ex, eu egestas dui commodo nec.</p>
+<p>Sed finibus pharetra ipsum et convallis. Integer libero sem, lobortis ac volutpat at, laoreet sed ligula. Sed venenatis pulvinar cursus. Suspendisse potenti. Phasellus faucibus sit amet ex eget placerat. Vestibulum feugiat justo quam, quis vehicula leo vulputate sed. Mauris in pulvinar est, vel efficitur lorem. Quisque volutpat sem odio, id aliquet urna aliquet non. Pellentesque ornare sollicitudin turpis, id vulputate augue ullamcorper id. Nam porta, ipsum non sollicitudin sollicitudin, nunc nibh dignissim nisl, ac elementum sem elit at sem. Suspendisse varius venenatis velit id hendrerit. Morbi ultricies et risus vitae venenatis. Fusce placerat risus non sapien vulputate tristique. Morbi sodales sem et justo commodo pretium. Donec nec mauris vel lacus sagittis tincidunt in at metus.</p>
+<p><span id="more-55"></span></p>
+<p>Donec ornare et mi eleifend ullamcorper. Donec pellentesque non purus at tempor. In auctor nunc a sodales egestas. Proin sit amet eleifend quam. Integer dapibus felis metus, ac dapibus mi vehicula vel. Ut nec ante non lorem consequat tincidunt dignissim id elit. Suspendisse in cursus augue. Praesent tincidunt metus id eros rutrum luctus. Duis ex libero, commodo quis efficitur a, convallis non erat. Maecenas tortor ipsum, volutpat at vestibulum non, imperdiet nec mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas ullamcorper elit sed tortor malesuada, ut mollis urna pulvinar. Maecenas eget aliquam velit, fermentum sagittis leo. Donec sit amet pulvinar risus. Donec accumsan dui nec euismod mollis.</p>
+<p>Pellentesque sed libero semper, laoreet turpis vel, sagittis erat. Maecenas imperdiet neque non dolor pretium gravida sit amet non velit. Integer erat erat, faucibus eget ornare id, hendrerit vel sem. Nunc facilisis enim vel ante blandit convallis. Sed consequat justo id diam lobortis, nec varius orci egestas. Vestibulum consectetur, nunc sit amet facilisis iaculis, risus felis pulvinar risus, non finibus elit nulla sit amet enim. Quisque at ullamcorper sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Cras volutpat nulla ex, ut feugiat purus facilisis nec. Quisque justo felis, volutpat eget semper at, consequat et nisl. Etiam cursus cursus ex, vel bibendum erat ultrices sit amet. Suspendisse fermentum ante neque, a tempor erat hendrerit a. Aenean maximus massa odio, sit amet elementum dolor porttitor in. Nulla volutpat finibus velit. Nulla facilisi. Cras ornare est metus, nec rhoncus tellus elementum vitae. Duis sed lobortis enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet laoreet lectus. Morbi ut fermentum est. Etiam ullamcorper urna tellus, et euismod augue sollicitudin nec. Proin congue dolor ac neque pharetra sollicitudin. Fusce elementum a leo dignissim malesuada. Suspendisse convallis libero et arcu egestas, sed egestas metus placerat.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://eufemioperez.com/?feed=rss2&#038;p=55</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
